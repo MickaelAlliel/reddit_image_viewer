@@ -1,0 +1,59 @@
+#main {
+	background-color: #FFFFFF;
+	font-family: montserrat;
+}
+
+li {
+	list-style-type: none;
+}
+
+ul {
+	padding-left: 0;
+}
+
+.card {
+	margin-bottom: 1em;
+}
+
+.card-title {
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0.75rem;
+	margin-bottom: 0.75rem;
+}
+
+.form-control:focus {
+	border-color: #333333;
+}
+
+/****************Navbar*******************/
+.menuItem {
+	list-style-type: none;
+}
+
+.menuHomeTitle {
+	font-size: 3.5em;
+	text-align: center;
+}
+
+.nav-bar-container {
+	margin-bottom: 2em;
+}
+
+.nav-bar-container a {
+	color: #333333;
+}
+
+.nav-bar-container a:hover {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+/******************CommentScroller*****************/
+
+
+
+/******************App*****************/
+
