@@ -1,4 +1,4 @@
-FUTrader
+Reddit Image Viewer
 ---
  
 Welcome.
@@ -6,6 +6,8 @@ Welcome.
 
 Usage
 ---
+Change your imgur Client-ID in src/config.js
+
 
 Start the development server with this command:
 
